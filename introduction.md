@@ -4,3 +4,4 @@ Favorite codeschool class is JavaScript also Electives
 *Jitsu
 *Sniper
 *Spiderman skils
+*Killing history using git rebase
